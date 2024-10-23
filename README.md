@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Front-End Web Development
 - 💞️ I’m looking to collaborate on Front-End Jobs
 - 📫 You can reach me at @naseerrakhmatov via Telegram
-- 😄 Pronouns: I'd like to indentify as a full-fledged web developer with 45 years of experienece is that possible ...
+
 - ⚡ Fun facts: There are none !
 
 <!---
